@@ -1,0 +1,7 @@
+body{
+    width: 70%;
+    margin: 0 auto;
+    /* background-color: aqua; */
+    background-image: url('bac-img.jpg');
+    padding: 0;
+}
